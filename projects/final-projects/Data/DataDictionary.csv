@@ -1,0 +1,13 @@
+Column Name,Description,Type,Data Type
+incident_id,Unique ID can join with lwmain table from the source database,Number,Unique ID
+case_number,,Plain Text,Unique ID
+incident_datetime,Date of incident,Date & Time,Continuous
+incident_type_primary,Grouped Category,Plain Text,Category
+incident_description,Original Category,Plain Text,Category
+address_1,Address,Plain Text,Location
+city,City,Plain Text,Location
+latitude,Latitude in Decimal Degrees (33.xxx),Number,Location
+longitude,Longitude in Decimal Degrees (-84.xxx),Number,Location
+hour_of_day,hour from 0 to 24 - number,Number,Category
+day_of_week,Day of the week-  text,Plain Text,Category
+parent_incident_type,almost the same as incident_type_primary but more generalized,Plain Text,Category
