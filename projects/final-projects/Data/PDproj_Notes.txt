@@ -1,8 +1,0 @@
-1 - Merge and Dissolve Sandy Springs and Dunwoody
-2 - Display X Y data of Police events
-3 - Defination Query Date
-	January 1 2010 to January 1 2017 - 7 full years
-	"date_incid" >= date '01/01/2010' AND "date_incid" <= date '01/01/2017'
-4 - Clean indident primary column in SS table
-5 - merge police events 
-6 - create fishnet polygons using merged cities as bounding polygon

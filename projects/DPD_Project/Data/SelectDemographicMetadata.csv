@@ -1,0 +1,18 @@
+OBJECTID *,Short_Name,Full_Name
+6255,B25057e1,LOWER CONTRACT RENT QUARTILE (DOLLARS): Total: Renter-occupied housing units paying cash rent -- (Estimate)
+6257,B25058e1,MEDIAN CONTRACT RENT (DOLLARS): Total: Renter-occupied housing units paying cash rent -- (Estimate)
+6259,B25059e1,UPPER CONTRACT RENT QUARTILE (DOLLARS): Total: Renter-occupied housing units paying cash rent -- (Estimate)
+6721,B25076e1,LOWER VALUE QUARTILE (DOLLARS): Total: Owner-occupied housing units -- (Estimate)
+6723,B25077e1,MEDIAN VALUE (DOLLARS): Total: Owner-occupied housing units -- (Estimate)
+6725,B25078e1,UPPER VALUE QUARTILE (DOLLARS): Total: Owner-occupied housing units -- (Estimate)
+5655,B25018e1,MEDIAN NUMBER OF ROOMS: Total: Housing units -- (Estimate)
+5325,B25001e1,HOUSING UNITS: Total: Housing units -- (Estimate)
+5327,B25002e1,OCCUPANCY STATUS: Total: Housing units -- (Estimate)
+5329,B25002e2,OCCUPANCY STATUS: Occupied: Housing units -- (Estimate)
+5331,B25002e3,OCCUPANCY STATUS: Vacant: Housing units -- (Estimate)
+,,https://www.socialexplorer.com/data/ACS2014_5yr/metadata/?ds=ACS14_5yr&table=B25068
+3271,B19013e1,MEDIAN HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS): Total: Households -- (Estimate)
+2941,C17002e1,RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS: Total: Population for whom poverty status is determined -- (Estimate)
+2943,C17002e2,RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS: Under .50: Population for whom poverty status is determined -- (Estimate)
+2945,C17002e3,RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS: .50 to .99: Population for whom poverty status is determined -- (Estimate)
+,TotalPover,Total Poverty = C17002e1  + C17702e3
