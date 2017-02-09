@@ -25,6 +25,7 @@ There is much to improve to create a more logical and practical method of "crime
 
 ## Data Sources and Data Scrubbing
 Data is compiled from publically available datasets of four main data sources: <br/>
+
 1. Incident Data
   - From Sandy Springs Open Data Site found link to Socrata Data on Incidents from City of Sandy Springs and City of Dunwoody that is a live feed from the Cities' Police Department.
 
@@ -36,7 +37,7 @@ Data is compiled from publically available datasets of four main data sources: <
 3. Weather Data
  - From Weather Underground Historical Data
  - Data columns with mixed data types
- 
+
 4. Zoning Data
   - From City of Dunwoody Open Data Site and City of Dunwoody Open Data Site.
   - Each city classifies Zoning differently - much grouping was preformed in this section
