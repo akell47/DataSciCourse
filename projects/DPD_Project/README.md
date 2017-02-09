@@ -5,27 +5,38 @@
 
 This project is very much a data preprocessing and research design project. <br/>
 ##### Original Project Idea Description notebook: <br/>
---->**https://github.com/akell47/DataSciCourse/blob/master/projects/DPD_Project/DPD_InitialProjectIdea.ipynb** <br/>
+--->**https://github.com/akell47/DataSciCourse/blob/master/projects/DPD_Project/DPD_InitialProjectIdea.ipynb** <br/><br/>
 There is much to improve to create a more logical and practical method of "crime prediction." I understand exactly what needs to be redone to improve the research design. The preprocessing and data combining processes are solid. Putting areas to improve up front here: <br/>
 ### Areas to Improve
-1. Where Block Groups intersected with the Index Grid - Block Groups that had a value of 0 were averaged with the adjacent Block Group's value. The resulting Grid Squares where that intersection occurred is then half the value. An example of where this is a problem is the Census Data on amount for rent for apartments. Thus Block Groups that contain all single-family parcels next to Block Groups that have apartments and have a number value for amount of rent are half the value on the grid that intersects.
-Example of this: <br/> https://github.com/akell47/DataSciCourse/blob/master/projects/DPD_Project/Maps/DesignFlawCensusIndexGrid.JPG
-2. The Index Grid needs to be the Data Frame not the Incident Points. Data normalized / aggregated up to the Index Grid then predict over the Grid.
-3. Grid Size - Also perhaps change the size of the index grid to get a count of points within a cell - Or make the grid size fitted to each crime target so that each grid is 0 or 1 for each crime target. Also need to think about this by the aggregated years or just one for the grid to be created on.
-4. Improve Visualizations - Add more plots and charts - Make them interactive - Elaborate more on the visual trends and what it means for the model and for the research question(s). Current visualizations are just a sample. Add time series maps, and hot spot maps.
-5. Research and carefully decide what Census Data to use. Current project has just a select few tables, mostly on Housing Characteristics.
+1. Where Block Groups intersected with the Index Grid
+  - Block Groups that had a value of 0 were averaged with the adjacent Block Group's value. The resulting Grid Squares where that intersection occurred is then half the value. An example of where this is a problem is the Census Data on amount for rent for apartments. Thus Block Groups that contain all single-family parcels next to Block Groups that have apartments and have a number value for amount of rent are half the value on the grid that intersects.
+  - Example of this: <br/> https://github.com/akell47/DataSciCourse/blob/master/projects/DPD_Project/Maps/DesignFlawCensusIndexGrid.JPG
+2. The Index Grid needs to be the Data Frame not the Incident Points.
+  - Data normalized / aggregated up to the Index Grid then predict over the Grid.
+3. Grid Size
+  - Also perhaps change the size of the index grid to get a count of points within a cell - Or make the grid size fitted to each crime target so that each grid is 0 or 1 for each crime target. Also need to think about this by the aggregated years or just one for the grid to be created on.
+4. Improve Visualizations
+  - Add more plots and charts
+  - Make them interactive
+  - Elaborate more on the visual trends and what it means for the model and for the research question(s). Current visualizations are just a sample.
+  - Add time series maps, and hot spot maps.
+5. Research and carefully decide what Census Data to use.
+  - Current project has just a select few tables, mostly on Housing Characteristics.
 
 ## Data Sources and Data Scrubbing
 Data is compiled from publically available datasets of four main data sources: <br/>
 1. Incident Data
   - From Sandy Springs Open Data Site found link to Socrata Data on Incidents from City of Sandy Springs and City of Dunwoody that is a live feed from the Cities' Police Department.
+
 2. Census Data
   - From the Census Select Demographic Data Geodatabase with shapefiles and Census Tables.
   - lots of manual joining in ArcMap
   - Census Meta Data Full Reference (open it in excel :P)<br/> https://github.com/akell47/DataSciCourse/blob/master/projects/DPD;_Project/Data/SelectDemographicMetadata.csv
+
 3. Weather Data
  - From Weather Underground Historical Data
  - Data columns with mixed data types
+ 
 4. Zoning Data
   - From City of Dunwoody Open Data Site and City of Dunwoody Open Data Site.
   - Each city classifies Zoning differently - much grouping was preformed in this section
