@@ -55,7 +55,7 @@ https://github.com/akell47/DataSciCourse/blob/master/projects/DPD_Project/Maps/B
 ## Data Visualizations
 The Visualizations are an example of just one or a few crime targets. Ideally I want to make these visualizations data with all the plots, and charts to be interactive.  Seems a little silly to have this super long scroll of all the possible visualizations. I want to create this section so that the plot type is the same but you can click on each crime type so you don't have to scroll down a long page.
 ##### Visualizations notebook: <br/>
---->https://github.com/akell47/DataSciCourse/blob/master/projects/DPD_Project/IncidentTimeSeries.ipynb <br/>
+--->**https://github.com/akell47/DataSciCourse/blob/master/projects/DPD_Project/IncidentTimeSeries.ipynb** <br/>
 Currently you can see an interesting trend happening on Sundays.
 
 ## Fitting the Model - Machine Learning
