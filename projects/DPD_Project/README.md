@@ -69,3 +69,28 @@ This project was created with resources such as YouTube, Wikipedia, slack channe
 This report is excellent.
 Covers a wide variety of crime prediction techniques and also debunks myths around crime forecasting.
 http://www.rand.org/content/dam/rand/pubs/research_reports/RR200/RR233/RAND_RR233.pdf
+
+# Threats to Open Data
+https://www.theatlantic.com/business/archive/2017/02/real-life-consequences-hiring-freeze/516150/ <br/>
+Open Data is very important for the field of Data Science. Creating Legislative Action such as hiring freeze for scientists to enter Federal Government is not ok. Aiming to dismantle scientific data and research on earth sciences is an attack on the science community for all. Total nonsense to make a crisis for all the amazing diligent and hardworking people in public service sector. If anything Government need all the help it can get on bringing in new technology, and talented innovators - quite desperately in some areas. Government already has a difficult time competing with salaries in the private industry. Like user experience with apps that thrive and improve our quality of life, it is necessary for Government(s) to embrace modern technology and for us to be a successful, beautiful, pleasurable, and welcoming place for businesses and families. Innovation and business is not constrained to geographic boundaries. In half a week this country lost a year's worth of talent for the government and global talent. <br/> 
+### Amazing Data providers
+* Data.gov
+* HUD
+* USGS
+* EPA
+* CDC
+* NPS
+* GPB
+* NASA
+* NOAA
+* USFWS
+**A Bill**
+```
+(b) Notice.—The notice of the Department of Housing and Urban Development relating to the Affirmatively Furthering Fair Housing Assessment Tool, published in the Federal Register on December 31, 2015 (80 Fed. Reg. 81840; Docket No. FR–5173–N–07), and any successor notice or rule substantially similar to such notice shall have no force or effect.
+```
+```
+Notwithstanding any other provision of law, no Federal funds may be used to design, build, maintain, utilize, or provide access to a Federal database of geospatial information on community racial disparities or disparities in access to affordable housing.
+```
+Great lets make unfair housing.<br/>
+This is my data and research. <br/>
+http://georgia-dca.maps.arcgis.com/apps/webappviewer/index.html?id=7556775c875a4cfcb372997cd9baa882
