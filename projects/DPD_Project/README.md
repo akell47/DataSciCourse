@@ -36,7 +36,8 @@ Data is compiled from publicly available datasets of four main data sources: <br
 2. Census Data
   - From the Census Select Demographic Data Geodatabase with shapefiles and Census Tables.
   - lots of manual joining in ArcMap
-  - Census Meta Data Full Reference (open it in excel :P)<br/> https://github.com/akell47/DataSciCourse/blob/master/projects/DPD;_Project/Data/SelectDemographicMetadata.csv
+  - Census Meta Data Full Reference (open it in excel :P)<br/>
+  https://github.com/akell47/DataSciCourse/blob/master/projects/DPD_Project/Data/SelectDemographicMetadata.csv
 
 3. Weather Data
  - From Weather Underground Historical Data
