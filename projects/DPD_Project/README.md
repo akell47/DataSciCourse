@@ -28,7 +28,7 @@ There is much to improve to create a more logical and practical method of "crime
   - Current project has just a select few tables, mostly on Housing Characteristics.
 
 ## Data Sources and Data Scrubbing
-Data is compiled from publically available datasets of four main data sources: <br/>
+Data is compiled from publicly available datasets of four main data sources: <br/>
 
 1. Incident Data
   - From Sandy Springs Open Data Site found link to Socrata Data on Incidents from City of Sandy Springs and City of Dunwoody that is a live feed from the Cities' Police Department.
@@ -93,7 +93,7 @@ Great lets make unfair housing.<br/>
 This is my data and research. <br/>
 http://georgia-dca.maps.arcgis.com/apps/webappviewer/index.html?id=7556775c875a4cfcb372997cd9baa882 <br/>
 
-**Open Data** is very important for the field of Data Science. Creating Legislative Action such as hiring freeze for scientists to enter Federal Government is not ok. Aiming to dismantle scientific data and research on earth sciences is an attack on the science community for all. Total nonsense to make a crisis for all the amazing diligent and hardworking people in public service sector. If anything Government need all the help it can get on bringing in new technology, and talented innovators - quite desperately in some areas. Government already has a difficult time competing with salaries in the private industry. Like user experience with apps that thrive and improve our quality of life, it is necessary for Government(s) to embrace modern technology for us to be a successful, beautiful, pleasurable, and welcoming place for businesses and families. In half a week this country lost a year's worth of talent. Innovation and business is not constrained to geographic boundaries, innovation will make space and salaries elsewhere. <br/>
+**Open Data** is very important for the field of Data Science. Creating Legislative Action such as hiring freeze for scientists to enter Federal Government is not ok. Aiming to dismantle scientific data and research on earth sciences is an attack on the science community for all. Total nonsense to make a crisis for all the amazing diligent and hardworking people in public service sector. If anything Government needs all the help it can get on bringing in new technology, and talented innovators - needed quite desperately in some areas. Government already has a difficult time competing with salaries in the private industry. Like user experience with apps that thrive and improve our quality of life, it is necessary for Government(s) to embrace modern technology for us to be a successful, beautiful, pleasurable, and welcoming place for businesses and families. In half a week this country lost a year's worth of talent. Innovation and business is not constrained to geographic boundaries, innovation will make space and salaries elsewhere. <br/>
 ### Amazing Data providers
 * Data.gov
 * HUD
@@ -107,6 +107,6 @@ http://georgia-dca.maps.arcgis.com/apps/webappviewer/index.html?id=7556775c875a4
 * USFWS
 * Census
 
-**Data Refuge https://www.datarefuge.org/** 
+**Data Refuge https://www.datarefuge.org/**
 <br/>
 <br/>
